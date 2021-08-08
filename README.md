@@ -1,10 +1,3 @@
-<html>
-<body>
-<style type = "text/css">
-.div1{ width: 200px; height: 100px; background: red; float: left; }
-.div2{ width: 300px; height: 350px; background: yellow; }
-</style>
-<div class = "div1" ></div>
-<div  class = "div2"></div>
-</body>
-</html>
+<div float=left>
+<img src="https://img-blog.csdnimg.cn/20201026100921589.gif">
+</div>
