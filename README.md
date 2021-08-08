@@ -1,3 +1,15 @@
+#sec1 {
+	background: src(#bg-div);
+}
+<section id="sec1">
+<div id="bg-div">
+<em>This is a backgroung</em>
+<img align="right" src="https://img-blog.csdnimg.cn/20201026100921589.gif" height="180">
+<div>
+</section>
+
+
+
 <div float=right style="background-color:red;">
 <img align="right" src="https://img-blog.csdnimg.cn/20201026100921589.gif" height="180">
 </div>
